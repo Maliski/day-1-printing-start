@@ -12,6 +12,11 @@ print('e.g. print("Hello" + "world")')
 print("New lines can be created with a backslash and n.")
 input("what is your name?")
 input("a promt for the user.")
+#input() will get user input in console
+#Then print()will print the word "Hello" and the user input
 print("Hello Josie" + input("what is your name?"))
+#This is a comment 
+
+
 
 
